@@ -1,2 +1,2 @@
 # Protect-infomation
-Some project
+Различного рода разработки по защите информации 
